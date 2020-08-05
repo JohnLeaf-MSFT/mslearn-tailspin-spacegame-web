@@ -1,3 +1,4 @@
+[![Build Status](https://dorian5714.visualstudio.com/Space%20Game%20-%20Web%20App%20-%20Pipeline%20-%20JJL/_apis/build/status/JohnLeaf-MSFT.mslearn-tailspin-spacegame-web?branchName=master)](https://dorian5714.visualstudio.com/Space%20Game%20-%20Web%20App%20-%20Pipeline%20-%20JJL/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
